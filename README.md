@@ -9,13 +9,9 @@
   </body>
 </html>
 
-
-=== Image et lien externe ===
-<img src="https://www.w3schools.com/html/img_woman.jpg" alt="Une vendeuse souriante">
+<img src="https://www.w3schools.com/html/img_woman.jpg" alt="Une fille souriante">
 <a href="https://www.youtube.com" target="_blank">Voir des vidéos</a>
 
-
-=== Arrière-plan avec image ===
 <style>
   body {
     background-image: url('https://www.w3schools.com/html/img_girl.jpg');
@@ -24,8 +20,6 @@
   }
 </style>
 
-
-=== Liste non ordonnée ===
 <h2>Mes objectifs</h2>
 <ul>
   <li>Apprendre le développement web</li>
@@ -33,8 +27,6 @@
   <li>Pour devenir un génie en numérique</li>
 </ul>
 
-
-=== Mini projet : À propos de moi ===
 <!DOCTYPE html>
 <html>
   <head>
