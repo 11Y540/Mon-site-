@@ -1,1 +1,11 @@
-https://codepen.io/yacinth-attimankan/pen/gbbJWRv
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Mon site test</title>
+  </head>
+  <body>
+    <h1>Bienvenue sur mon site !</h1>
+    <p>Souhaitez-vous agrandir votre business ? C'est l'heure.</p>
+    <p>Merci de visiter cette page. Revenez souvent pour de nouvelles surprises.</p>
+  </body>
+</html>
